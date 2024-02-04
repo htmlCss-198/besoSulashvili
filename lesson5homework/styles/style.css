@@ -1,0 +1,26 @@
+h1 {
+
+    text-align: center;
+}
+.vid {
+    display: flex
+
+}
+th {
+    background-color: #DBFF33;
+}
+
+td {
+    background-color: #75FF33;
+}
+table {
+    border: dashed;
+
+}
+.center {
+    margin-left: auto;
+    margin-right: auto;
+}
+body {
+    background-color: #33DBFF;
+}
